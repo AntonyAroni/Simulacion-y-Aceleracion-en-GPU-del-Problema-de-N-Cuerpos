@@ -2,7 +2,6 @@
 
 **Proyecto:** Framework Híbrido de Simulación Dinámica y Aceleración en GPU: Métodos Numéricos Clásicos vs. Operadores Basados en Transformers  
 **Curso:** Física Computacional (E) — Universidad Nacional de San Agustín (UNSA)  
-**Estudiante:** Antony Aroni Jarata  
 
 ---
 
