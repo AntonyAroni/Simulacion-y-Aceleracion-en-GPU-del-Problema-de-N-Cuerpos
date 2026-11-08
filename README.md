@@ -1,8 +1,7 @@
 # Proyecto Final de Física Computacional (UNSA 2026-B)
 ## Simulación y Aceleración en GPU del Problema de $N$-Cuerpos: Integradores Simplécticos (Yoshida 4.º Orden) vs. Runge-Kutta 4 y Operadores Basados en Transformers
 
-**Estudiante:** Antony Aroni Jarata  
-**Programa:** Ciencia de la Computación, 10.º Semestre — Universidad Nacional de San Agustín (UNSA)  
+**Programa:** Ciencia de la Computación — Universidad Nacional de San Agustín (UNSA)  
 **Docente del Curso:** Dr. Danny Giancarlo Apaza Veliz  
 **Hardware de Experimentación:** NVIDIA GeForce RTX 4050 Laptop GPU (Ada Lovelace, CUDA / PyTorch 2.15)  
 
